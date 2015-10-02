@@ -7,7 +7,7 @@ http://www.researchgate.net/post/How_can_I_collect_data_from_Twitter_for_stock_m
 ### Install Tweepy as follows  
 ##### Either (1) via terminal: 
 pip install tweepy 
-Or (2) via git: 
+##### Or (2) via git: 
 git clone https://github.com/tweepy/tweepy.git 
 cd tweepy 
 python setup.py install 
